@@ -12,11 +12,11 @@ Each hospital have many Recipient and every recipient belong to the hospital, ea
 ### DBMS Relational Model
 
 <div>
-  <img src="URL_to_image" alt="Alternative Text" width="300">
+  <img src="https://github.com/rhali-01/BloodDonation-DBMS/assets/109041560/0382d63d-9bf6-4012-b247-9810ad47702a" alt="Alternative Text" width="500">
 </div>
 
 ### ER Diagram 
 
 <div>
-  <img src="https://github.com/rhali-01/BloodDonation-DBMS/assets/109041560/d3c9311d-4131-444e-8987-e8a146920362" alt="Alternative Text" width="300">
+  <img src="https://github.com/rhali-01/BloodDonation-DBMS/assets/109041560/d3c9311d-4131-444e-8987-e8a146920362" alt="Alternative Text" width="500">
 </div>
