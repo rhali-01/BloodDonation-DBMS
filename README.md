@@ -18,5 +18,5 @@ Each hospital have many Recipient and every recipient belong to the hospital, ea
 ### ER Diagram 
 
 <div>
-  <img src="URL_to_image" alt="Alternative Text" width="300">
+  <img src="https://github.com/rhali-01/BloodDonation-DBMS/assets/109041560/d3c9311d-4131-444e-8987-e8a146920362" alt="Alternative Text" width="300">
 </div>
